@@ -12,4 +12,4 @@ The three main components of this repository are
 
 ### How the script works
 
-Each step of the script is detailed in the codebook. In short, the script starts right from downloading the data from a specified URL to working through the creation of tables with proper attributes. Finally, statistics are utilized to aggregate the data and write the summarized `tidy.csv` to a comma-delimited text file.
+Each step of the script is detailed in the codebook. In short, the script starts right from downloading the data from a specified URL to working through the creation of tables with proper attributes. Finally, statistics are utilized to aggregate the data and write the summarized data to a comma-delimited text file, `tidy.csv`.
